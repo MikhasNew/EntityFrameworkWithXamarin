@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EntityFrameworkWithXamarin.Droid</string>
+    <string name="action_settings">Settings</string>
+  <string name="accessibility_service_description"></string>
+  <string name="notification_text">ServerBot</string>
+  <string name="notification_text_logger">ServerBotLogger</string>
+</resources>
